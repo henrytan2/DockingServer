@@ -1,3 +1,6 @@
+dockingserver_venv
+.DS_STORE
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -32,6 +35,10 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
+# pycharm
+.idea/
+
 
 # Installer logs
 pip-log.txt
