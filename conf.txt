@@ -1,0 +1,10 @@
+receptor = /Users/henry/Documents/Pharmacogenomics Project/qvina/receptors/T1033_AlphaFold.pdbqt
+center_x = -19.38
+center_y = 42.75
+center_z = -18.22
+size_x = 40.19
+size_y = 51.54
+size_z = 47.78
+exhaustiveness = 10
+ligand = /Users/henry/Documents/Pharmacogenomics Project/qvina/ligands/
+out = /Users/henry/Documents/Pharmacogenomics Project/qvina/out/
